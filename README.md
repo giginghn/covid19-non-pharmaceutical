@@ -19,10 +19,6 @@ In this challenge, I will be analyzing the open-source data from different contr
 
 - **What do we know about COVID-19 risk factors?** Ex: Percentage of the population that smokes, numbers of death by lung diseses or numbers of ICU for the patients in a country.
 
-- **When should we expect the number of infected cases will start to stabilize and decrease?** 
-
-- **What would be the maximum number of cases in N days?**
-
 In addition, I will predict the cumulative number of confirmed COVID19 cases as well as fatal cases in **184 countries** across the world for future dates **(ranging from April 2 - May 14)**.
 
 **Disclaimer from Kaggle:** We understand this is a serious situation, and in no way want to trivialize the human impact this crisis is causing by predicting fatalities. Our goal is to provide better methods for estimates that can assist medical and governmental institutions to prepare and adjust as pandemics unfold.
